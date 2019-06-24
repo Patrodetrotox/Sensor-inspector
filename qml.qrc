@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qtquickcontrols2.conf</file>
+        <file>qml/sensor-inspector.qml</file>
+        <file>qml/assets/Ball.qml</file>
+        <file>qml/assets/SectionDelegate.qml</file>
+        <file>qml/assets/ValueDelegate.qml</file>
+        <file>qml/assets/ViewPlaceholder.qml</file>
+        <file>qml/graphics/logo_qt_2016.png</file>
+        <file>qml/pages/SensorListPage.qml</file>
+        <file>qml/pages/QProximitySensorPage.qml</file>
+        <file>qml/pages/QLightSensorPage.qml</file>
+        <file>qml/pages/QAmbientLightSensorPage.qml</file>
+        <file>qml/pages/QAccelerometerPage.qml</file>
+        <file>qml/pages/QOrientationSensorPage.qml</file>
+        <file>qml/pages/QRotationSensorPage.qml</file>
+        <file>qml/pages/NoGravityAccelerometerPage.qml</file>
+    </qresource>
+</RCC>
